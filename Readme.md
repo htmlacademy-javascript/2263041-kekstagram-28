@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Sergey Karpenko](https://up.htmlacademy.ru/javascript/28/user/2263041).
-* Наставник: `Неизвестно`.
+- Студент: [Sergey Karpenko](https://up.htmlacademy.ru/javascript/28/user/2263041).
+- Наставник: [Олег Зубов](https://htmlacademy.ru/profile/id42701).
 
 ---
 
